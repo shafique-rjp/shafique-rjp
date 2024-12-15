@@ -1,10 +1,11 @@
-👋 Hi, I’m @shafique-ahmed-rajput, a professional PHP Laravel Developer.
-👀 I’m interested in coding and constantly learning new technologies.
-🌱 I’m currently learning Next.js.
-💼 I’m looking to collaborate on exciting HTML, CSS, PHP, Laravel, and JavaScript, JQuery, AJAX, MySQL projects.
-📫 You can reach me through rajputshafiqueahmed11@gmail.com.
-😄 Pronouns: Sha-Fee-k.
-⚡ Fun fact: InDoor Gaming.
+💻 PHP Laravel Developer | 2+ years of experience in creating dynamic web applications. <br> 
+🏢 Currently working at CIS Pvt Ltd, specializing in POS systems and API integrations. <br>
+🚀 Passionate about optimizing code, solving complex problems, and delivering efficient solutions. <br>
+🌟 Skilled in HTML, CSS, PHP, Laravel, and JavaScript, JQuery, AJAX, MySQL, with a focus on data-driven projects. <br>
+📈 Always learning and growing to stay ahead in the tech world! <br>
+📫 You can reach me through rajputshafiqueahmed11@gmail.com. <br>
+😄 Pronouns: Sha-Fee-k. <br>
+⚡ Fun fact: InDoor Gaming. <br>
 
 <!---
 shafique-rjp/shafique-rjp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
