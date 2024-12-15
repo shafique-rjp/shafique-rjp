@@ -3,7 +3,7 @@
 🚀 Passionate about optimizing code, solving complex problems, and delivering efficient solutions. <br>
 🌟 Skilled in HTML, CSS, PHP, Laravel, and JavaScript, JQuery, AJAX, MySQL, with a focus on data-driven projects. <br>
 📈 Always learning and growing to stay ahead in the tech world! <br>
-📫 You can reach me through rajputshafiqueahmed11@gmail.com. <br>
+📫 You can reach me through rajputshafiqueahmed11@gmail.com <br>
 😄 Pronouns: Sha-Fee-k. <br>
 ⚡ Fun fact: InDoor Gaming. <br>
 
