@@ -1,4 +1,4 @@
-💻 PHP Laravel Developer | 2+ years of experience in creating dynamic web applications. <br> 
+💻 PHP Laravel Developer | 3+ years of experience in creating dynamic web applications. <br> 
 🏢 Currently working at CIS Pvt Ltd, specializing in POS systems and API integrations. <br>
 🚀 Passionate about optimizing code, solving complex problems, and delivering efficient solutions. <br>
 🌟 Skilled in HTML, CSS, PHP, Laravel, and JavaScript, JQuery, AJAX, MySQL, with a focus on data-driven projects. <br>
